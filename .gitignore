@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Large raw datasets
+data/Oryza_sativa.IRGSP-1.0.63.gff3
+data/Oryza_sativa.IRGSP-1.0.pep.all.fa
+data/annotations.txt
