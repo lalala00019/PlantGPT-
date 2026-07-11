@@ -11,4 +11,4 @@ __pycache__/
 # Large raw datasets
 data/Oryza_sativa.IRGSP-1.0.63.gff3
 data/Oryza_sativa.IRGSP-1.0.pep.all.fa
-data/annotations.txt
+data/annotation.txt
